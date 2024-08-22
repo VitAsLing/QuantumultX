@@ -1,1 +1,1 @@
-# QuantumultX
+# Quantumult X 配置文件
