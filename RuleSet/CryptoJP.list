@@ -1,12 +1,23 @@
 
 #Crypto JP
 DOMAIN-KEYWORD,binance
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
 DOMAIN-KEYWORD,okx
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
 DOMAIN-KEYWORD,bybit
 DOMAIN-SUFFIX,bybit.org
 DOMAIN-SUFFIX,bybit.cloud
@@ -20,11 +31,10 @@ DOMAIN-SUFFIX,bycbe.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-KEYWORD,gateio
 DOMAIN-SUFFIX,gateion.com
+DOMAIN-SUFFIX,gatetrace.com
 DOMAIN-KEYWORD,bitget
+DOMAIN-SUFFIX,bitget.fit
+DOMAIN-KEYWORD,bitgetimg
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,synfutures.com
 DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,gatetrace.com
-DOMAIN-SUFFIX,bitget.fit
-DOMAIN-KEYWORD,bitgetimg
-DOMAIN-SUFFIX,mokexapp.net
