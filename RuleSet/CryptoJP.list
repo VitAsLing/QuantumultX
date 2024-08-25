@@ -1,15 +1,24 @@
 
 #Crypto JP
+DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,bybit
+DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byb3c3.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybitg-lobal.com
 DOMAIN-KEYWORD,gateio
 DOMAIN-SUFFIX,gateion.com
 DOMAIN-KEYWORD,bitget
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,synfutures.com
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-KEYWORD,okx
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,gatetrace.com
 DOMAIN-SUFFIX,bitget.fit
