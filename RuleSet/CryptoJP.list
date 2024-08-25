@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,bybit
 DOMAIN-SUFFIX,bybit.org
@@ -23,3 +24,4 @@ DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,gatetrace.com
 DOMAIN-SUFFIX,bitget.fit
 DOMAIN-KEYWORD,bitgetimg
+DOMAIN-SUFFIX,mokexapp.net
