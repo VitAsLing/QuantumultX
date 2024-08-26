@@ -290,6 +290,7 @@ IP-CIDR,150.109.28.51/32,no-resolve
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubeeducation.com
