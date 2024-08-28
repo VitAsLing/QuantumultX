@@ -1,24 +1,49 @@
 
 #Crypto JP
-DOMAIN-KEYWORD,binance
-DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,binancefuture.com
-DOMAIN-SUFFIX,bnappzh.co
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,saasexch.io
-DOMAIN-SUFFIX,saasexch.cc
-DOMAIN-SUFFIX,saasexch.com
+
+# > Binance
+DOMAIN-KEYWORD, binance
+DOMAIN-SUFFIX, binance.com
+DOMAIN-SUFFIX, saasexch.cc
+DOMAIN-SUFFIX, saasexch.co
+DOMAIN-SUFFIX, saasexch.io
+DOMAIN-SUFFIX, saasexch.com
+DOMAIN-SUFFIX, binance.im
+DOMAIN-SUFFIX, binance.info
+DOMAIN-SUFFIX, bntrace.com
+DOMAIN-SUFFIX, bnbstatic.com
+DOMAIN-SUFFIX, binancecnt.com
+DOMAIN-SUFFIX, yingwangtech.cloud
+DOMAIN-SUFFIX, yingwangtech.net
+DOMAIN-SUFFIX, yingwangtech.mobi
+DOMAIN-SUFFIX, yingwangtech.club
+DOMAIN-SUFFIX, yingwangtech.cc
+DOMAIN-SUFFIX, forter.com
+DOMAIN-SUFFIX, mokexapp.net
+DOMAIN, crt.r2m01.amazontrust.com
+DOMAIN, crt.rootca1.amazontrust.com
+DOMAIN, crt.rootg2.amazontrust.com
+DOMAIN, d3sknckuh1o9tg.cloudfront.net
+DOMAIN, public-1306379396.file.myqcloud.com
+DOMAIN, domain-config-1306379396.file.myqcloud.com
+DOMAIN, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com
+DOMAIN, bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com
+DOMAIN, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
+IP-CIDR, 47.107.98.27/32
+IP-CIDR, 47.107.127.135/32
+IP-CIDR, 52.68.117.1/32
+IP-CIDR, 35.77.148.188/32
+IP-CIDR, 54.150.106.1/32
+IP-CIDR, 13.248.135.87/32
+IP-CIDR, 47.107.32.31/32
+
+# > OKX
 DOMAIN-KEYWORD,okx
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
+
+# > Bybit
 DOMAIN-KEYWORD,bybit
 DOMAIN-SUFFIX,bybit.org
 DOMAIN-SUFFIX,bybit.cloud
@@ -30,12 +55,18 @@ DOMAIN-SUFFIX,bybitg-lobal.com
 DOMAIN-SUFFIX,byapis.com
 DOMAIN-SUFFIX,bycbe.com
 DOMAIN-SUFFIX,bycsi.com
+
+# > Gate.io
 DOMAIN-KEYWORD,gateio
 DOMAIN-SUFFIX,gateion.com
 DOMAIN-SUFFIX,gatetrace.com
+
+# > Bitget
 DOMAIN-KEYWORD,bitget
 DOMAIN-SUFFIX,bitget.fit
 DOMAIN-KEYWORD,bitgetimg
+
+# > Other
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,synfutures.com
 DOMAIN-SUFFIX,coinbase.com
