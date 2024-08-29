@@ -63,8 +63,10 @@ DOMAIN-SUFFIX,bycsi.com
 
 # > Gate.io
 DOMAIN-KEYWORD,gateio
-DOMAIN-SUFFIX,gateion.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateio.com
 DOMAIN-SUFFIX,gatetrace.com
+DOMAIN-SUFFIX,gatedata.org
 
 # > Bitget
 DOMAIN-KEYWORD,bitget
