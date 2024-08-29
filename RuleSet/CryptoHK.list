@@ -4,6 +4,7 @@ DOMAIN-KEYWORD, onekey
 DOMAIN-KEYWORD, defillama
 DOMAIN-SUFFIX, hashkey.com
 DOMAIN-SUFFIX, kraken.com
+DOMAIN-SUFFIX, deribit.com
 DOMAIN-SUFFIX, symbiotic.fi
 DOMAIN-SUFFIX, solv.finance
 DOMAIN-SUFFIX, gmx.io
@@ -65,3 +66,4 @@ DOMAIN-SUFFIX, kucoin.com
 DOMAIN-SUFFIX, mexc.com
 DOMAIN-SUFFIX, probit.com
 DOMAIN-SUFFIX, upbit.com
+DOMAIN, hubblep-main-0776.mainnet.rpcpool.com
