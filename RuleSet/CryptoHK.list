@@ -22,7 +22,6 @@ DOMAIN-SUFFIX, debank.com
 DOMAIN-SUFFIX, rabby.io
 DOMAIN-SUFFIX, cloudflare-eth.com
 DOMAIN-SUFFIX, walletlink.org
-DOMAIN-SUFFIX, walletconnect.org
 DOMAIN-SUFFIX, ethers.org
 DOMAIN-SUFFIX, etherscan.io
 DOMAIN-SUFFIX, drpc.org
@@ -30,6 +29,7 @@ DOMAIN-SUFFIX, curve.fi
 DOMAIN-SUFFIX, pendle.finance
 DOMAIN-SUFFIX, dune.com
 DOMAIN-SUFFIX, walletconnect.com
+DOMAIN-SUFFIX, walletconnect.org
 DOMAIN-SUFFIX, chainbot.io
 DOMAIN-SUFFIX, ethena.fi
 DOMAIN-SUFFIX, zklend.com

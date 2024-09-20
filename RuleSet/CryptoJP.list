@@ -73,6 +73,11 @@ DOMAIN-SUFFIX,bitget.fit
 DOMAIN-KEYWORD,bitgetimg
 
 # > Other
-DOMAIN-SUFFIX,unisat.io
-DOMAIN-SUFFIX,synfutures.com
-DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX, unisat.io
+DOMAIN-SUFFIX, synfutures.com
+DOMAIN-SUFFIX, coinbase.com
+DOMAIN-SUFFIX, blockanalitica.com
+DOMAIN-SUFFIX, sky.money
+DOMAIN-SUFFIX, alchemy.com
+DOMAIN-SUFFIX, ipify.org
+
