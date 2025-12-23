@@ -1,5 +1,13 @@
 # Crypto Rules - Merged from CryptoHK & CryptoJP
 
+# ======== Finance & Trading ========
+
+# > Maple Finance (DeFi Lending)
+DOMAIN-SUFFIX,maple.finance
+
+# > Longbridge (Securities)
+DOMAIN-SUFFIX,lbctrl.com
+
 # ======== CEX Exchanges ========
 
 # > Binance
