@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blubrry.com
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bullguard.com
@@ -28,6 +30,7 @@ DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,clyp.it
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,comparitech.com
@@ -49,6 +52,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,earthcam.com
 DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,encyclopedia.com
@@ -67,7 +71,9 @@ DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githack.com
+DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,gumroad.com
@@ -106,6 +112,7 @@ DOMAIN-SUFFIX,mod.io
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mubi.com
+DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,nbcnews.com
@@ -264,11 +271,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN,clubhouse.pubnubapi.com
-# > Discord
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discordapp.net
+# > Discord (moved to Discord.list)
 # > Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
@@ -345,7 +348,7 @@ DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com
-# DOMAIN,store.steampowered.com
+DOMAIN,store.steampowered.com
 # ---(Telegram moved to Telegram.list)---
 # > The Economist
 DOMAIN-SUFFIX,economist.com
@@ -432,7 +435,6 @@ DOMAIN,new.c.mi.com
 DOMAIN,apps.apple.com
 DOMAIN,books.apple.com
 DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
 # > News
 DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple.news

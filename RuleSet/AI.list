@@ -149,6 +149,19 @@ DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor.com
 
+# > Codeium / Windsurf
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.ai
+
+# > v0 (Vercel)
+DOMAIN-SUFFIX,v0.dev
+
+# > Bolt
+DOMAIN-SUFFIX,bolt.new
+
+# > Lovable
+DOMAIN-SUFFIX,lovable.dev
+
 # > Replit AI
 DOMAIN-SUFFIX,replit.com
 
