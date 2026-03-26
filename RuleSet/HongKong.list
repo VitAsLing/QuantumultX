@@ -1,0 +1,41 @@
+# Hong Kong Services
+
+# ======== 银行 ========
+
+# > 汇丰香港
+DOMAIN-SUFFIX,hsbc.com.hk
+
+# > 恒生银行
+DOMAIN-SUFFIX,hangseng.com
+
+# > 中银香港
+DOMAIN-SUFFIX,bochk.com
+
+# > 东亚银行
+DOMAIN-SUFFIX,hkbea.com
+
+# > 渣打香港
+DOMAIN-SUFFIX,sc.com
+
+# > 星展香港
+DOMAIN-SUFFIX,dbs.com.hk
+
+# > 招商永隆
+DOMAIN-SUFFIX,cmbwinglungbank.com
+
+# > 信银国际
+DOMAIN-SUFFIX,cncbinternational.com
+
+# ======== 虚拟银行 ========
+
+# > 众安银行
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zabank.com.hk
+
+# > Mox Bank
+DOMAIN-SUFFIX,mox.com
+
+# ======== 其他 ========
+
+# > RewardU
+DOMAIN-SUFFIX,rewardu.hkt.com
