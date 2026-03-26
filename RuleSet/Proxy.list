@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlive.tv
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,earthcam.com
@@ -110,6 +112,8 @@ DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,netsarang.com
 DOMAIN-SUFFIX,newstatesman.com
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,newsweek.com
 DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,now.com
@@ -130,6 +134,8 @@ DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,privoxy.org
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,proxifier.com
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
@@ -154,6 +160,9 @@ DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,speakerdeck.com
 DOMAIN-SUFFIX,spideroak.com
 DOMAIN-SUFFIX,spiegel.de
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,straitstimes.com
