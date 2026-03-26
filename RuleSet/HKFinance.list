@@ -1,4 +1,4 @@
-# Hong Kong Services
+# Hong Kong Finance
 
 # ======== 银行 ========
 
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,hkbea.com
 
 # > 渣打香港
-DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,sc.com.hk
 
 # > 星展香港
 DOMAIN-SUFFIX,dbs.com.hk
