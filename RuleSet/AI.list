@@ -15,12 +15,22 @@ DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,chatgpt-async-webps-prod-southcentralus-6.webpubsub.azure.com
 
-# > OpenAI Dependencies (AI-specific only, broad services like auth0/stripe/sentry removed)
+# > OpenAI Dependencies
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,stripe.com
 
 # ======== Anthropic / Claude ========
 
@@ -194,3 +204,8 @@ DOMAIN-SUFFIX,you.com
 # > Phind
 DOMAIN-SUFFIX,phind.com
 
+# ======== Common Dependencies ========
+
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,cdn.cloudflare.net
