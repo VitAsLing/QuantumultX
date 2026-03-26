@@ -123,6 +123,15 @@ DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,uniswap.io
 
+# > PancakeSwap
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# > SushiSwap
+DOMAIN-SUFFIX,sushi.com
+
+# > Balancer
+DOMAIN-SUFFIX,balancer.fi
+
 # > DEX Aggregators
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,paraswap.io
@@ -172,6 +181,9 @@ DOMAIN-SUFFIX,solv.finance
 DOMAIN-SUFFIX,napier.finance
 DOMAIN-SUFFIX,astherus.finance
 
+# > Compound
+DOMAIN-SUFFIX,compound.finance
+
 # > Other DeFi
 DOMAIN-SUFFIX,defillama.com
 DOMAIN-KEYWORD,defillama
@@ -196,6 +208,12 @@ DOMAIN-SUFFIX,walletlink.org
 # > MetaMask
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,infura.io
+
+# > Trust Wallet
+DOMAIN-SUFFIX,trustwallet.com
+
+# > Rainbow
+DOMAIN-SUFFIX,rainbow.me
 
 # > Phantom
 DOMAIN-SUFFIX,phantom.app
@@ -262,6 +280,17 @@ DOMAIN-SUFFIX,tabiscan.com
 DOMAIN-SUFFIX,chiliz.com
 DOMAIN-SUFFIX,chilizchain.com
 
+# > Polygon
+DOMAIN-SUFFIX,polygon.technology
+DOMAIN-SUFFIX,polygonscan.com
+
+# > Avalanche
+DOMAIN-SUFFIX,avax.network
+DOMAIN-SUFFIX,snowtrace.io
+
+# > Near
+DOMAIN-SUFFIX,near.org
+
 # > TON
 DOMAIN-SUFFIX,ton.org
 DOMAIN-SUFFIX,tonscan.org
@@ -286,6 +315,21 @@ DOMAIN-SUFFIX,dune.com
 DOMAIN-SUFFIX,rootdata.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,btc.com
+DOMAIN-SUFFIX,nansen.ai
+
+# ======== NFT ========
+
+# > OpenSea
+DOMAIN-SUFFIX,opensea.io
+
+# > Blur
+DOMAIN-SUFFIX,blur.io
+
+# > Magic Eden
+DOMAIN-SUFFIX,magiceden.io
+
+# > Tensor
+DOMAIN-SUFFIX,tensor.trade
 
 # ======== Media & Community ========
 

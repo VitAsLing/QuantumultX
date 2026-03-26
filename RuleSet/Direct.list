@@ -63,7 +63,6 @@ HOST,download.jetbrains.com
 HOST,images-cn.ssl-images-amazon.com
 HOST,ip.istatmenus.app
 HOST,kc.kexinshe.com
-HOST,origin-a.akamaihd.ne
 HOST,origin-a.akamaihd.net
 HOST,sms.imagetasks.com
 HOST,steamcommunity-a.akamaihd.net
@@ -823,9 +822,8 @@ HOST-SUFFIX,che168.com
 HOST-SUFFIX,checkzeit.com
 HOST-SUFFIX,cheng.xin
 HOST-SUFFIX,cheyisou.com
-HOST-SUFFIX-chair.com
-HOST-SUFFIX-nengyuan.com
-HOST-SUFFIX.com
+HOST-SUFFIX,chair.com
+HOST-SUFFIX,nengyuan.com
 HOST-SUFFIX,chinaamc.com
 HOST-SUFFIX,chinabooktrading.com
 HOST-SUFFIX,chinacache.com
